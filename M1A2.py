@@ -1,6 +1,6 @@
 #Name: Aidan Barry
 #Student ID: 873622484
-#Section: 18254
+#Section: 07
 #Assignment: Module 1 Assignment 2
 
 name_str = input("What is your name? ")
